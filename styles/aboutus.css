@@ -1,0 +1,80 @@
+body{
+  padding-top: 150px;
+  font-family: Montserrat,Arial;
+  background-color:rgb(222, 241, 247) ;
+}
+.nav-bar{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 41px;
+  align-items: center;
+  position: absolute;
+  top:0;
+  right: 0;
+  left: 0;
+margin-bottom: 20px;
+}
+.left-section{
+
+  padding-top: 14px;
+  padding-bottom: 14px;
+  margin-left: 204px;
+  }
+  .middle-section{
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    padding:14px 7px 14px 7px;
+  }
+  .nav-bar-button{
+    font-size: 24px;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  .right-section{
+   
+    display: flex;
+    width: 150px;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18;
+    padding:14px 7px 14px 7px;
+    margin-right: 100px;
+  }
+  .h2{
+    font-size: 42px;
+    font-weight: bold;
+  }
+  .aboutus-container{
+    margin-left: 204px;
+    margin-right: 204px;
+  }
+  .title-aboutus{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 30px;
+  }
+  .table-of-content{
+    font-size: 28px;
+    font-weight: 500;
+    background-color: rgb(61, 164, 197);
+    padding-right: 60px;
+    padding-top: 60px;
+    padding-left: 60px;
+    padding-bottom: 30px;
+    margin-bottom: 80px;
+  }
+  .paragraph{
+    padding-bottom: 30px;
+  }
+  
+  .h3-rights{
+    color: rgb(50, 48, 48);
+    font-size: 16px;
+  }
+  .rights{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
